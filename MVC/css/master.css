@@ -1,0 +1,23 @@
+.NAV{
+    text-align: center;
+    background-color: #cebbee;
+    overflow-y: visible;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.NAV , a{
+    color: #000;
+}
+.content{
+        padding: 20px;
+        height:100%;
+        overflow-y: : auto;
+        overflow-x: hidden;
+}
+body{
+    background-color: #dfccff;
+
+}
+.interview-note{
+    font-style: italic;
+}

@@ -1,0 +1,22 @@
+    Making Of: hoe u uw webdev heeft gevonden
+    presentatie van het bedrijf waar de geïnterviewde werkt
+    presentatie van de webdev
+    interview (zie lijst met vragen)
+    Conclusie (analyse/persoonlijke indruk)
+
+
+
+
+
+
+
+
+
+
+    Reproduceer deze MVC-architectuur:
+        een map controller met de router, de map die de router omleidt
+        een map model waar we de PHP-verwerking plaatsen (je weet wel, alles boven het doctype)
+        een view map met alle visuele pagina's
+        een bestand config.php met verbindingsinformatie (gebruiker, wachtwoord, login, host)
+        een bestand connexion.php met de verbinding met de DB
+        een index.php bestand dat de.php verbinding en config.php, en ook de controller bevat.
